@@ -1,0 +1,15 @@
+/* CSS Document */
+/* Test Commit */
+body{
+	background:url(contents/img/background.png) no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+	background-position: top center;
+	background-attachment: fixed;
+}
+
+div{
+	text-align: center;
+}
+
+table{
+ text-align: center;	
+}
