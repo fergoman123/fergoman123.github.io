@@ -4,4 +4,4 @@ This Repo is used to host the download pages for my mods
 
 Its uses Twitters Bootstrap
 
-you can get bootstrap at [link](getbootstrap.com)
+you can get bootstrap [here](getbootstrap.com)
