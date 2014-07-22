@@ -1,5 +1,5 @@
 #!/bin/bash
-# Auto Commit Script Created for FergoUtil
+# Auto Commit Script Created for fergoman123.github.io
 while true; do
 CDATE=`date`
 CHOST=`hostname`
